@@ -79,6 +79,32 @@ def _(mo):
 
 @app.cell
 def _():
+    # ----------------------------------------------------------
+    # DATA FLOW DOCUMENTATION
+    #
+    # Cell 1:
+    #     Creates the slider UI element (slider)
+    #
+    # Cell 2:
+    #     Reads slider.value
+    #     Uses it to compute y = x * slider.value
+    #     Builds the dataframe df
+    #
+    # Cell 3:
+    #     Displays dynamic markdown that updates when slider.value changes
+    #
+    # Cell 4:
+    #     Plots df, so the plot updates automatically when slider changes
+    #
+    # Summary:
+    # slider.value  →  updates df  →  updates markdown & plot
+    # ----------------------------------------------------------
+
+    return
+
+
+@app.cell
+def _():
     return
 
 
