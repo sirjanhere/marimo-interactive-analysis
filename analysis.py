@@ -23,9 +23,8 @@ def _():
 
 @app.cell
 def _(mo):
-    # create slider here ONLY
+    # Cell 1: Create slider UI element (no dependencies)
     slider = mo.ui.slider(start=1, stop=10, value=5)
-
     slider
 
     return (slider,)
@@ -33,7 +32,7 @@ def _(mo):
 
 @app.cell
 def _(np, pd, slider):
-    # Use slider.value here
+    # Cell 2: Uses slider.value to build dataframe (depends on Cell 1)
     x = np.arange(1, 21)
     y = x * slider.value
 
@@ -45,6 +44,7 @@ def _(np, pd, slider):
 
 @app.cell
 def _(mo, slider):
+    # Cell 3: Dynamic text updates when slider changes (depends on slider)
     mo.md(f"Selected multiplier: {slider.value}")
 
     return
@@ -52,6 +52,7 @@ def _(mo, slider):
 
 @app.cell
 def _(df):
+    # Cell 4: Plot updates reactively based on df (depends on Cell 2)
     import matplotlib.pyplot as plt
 
     plt.plot(df["x"], df["y"])
@@ -65,13 +66,10 @@ def _(df):
 
 @app.cell
 def _(mo):
+    # Cell 5: Full data flow summary:
+    # slider.value → updates df → updates markdown + plot
     mo.md("""
-    **Data Flow Documentation**
-
-    slider.value
-    → affects y values
-    → updates df
-    → updates markdown + plot
+    Data flow documented with comments in each cell.
     """)
 
     return

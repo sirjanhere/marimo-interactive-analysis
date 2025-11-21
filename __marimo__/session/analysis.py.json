@@ -25,12 +25,12 @@
     },
     {
       "id": "CCce",
-      "code_hash": "d0684cf439350b40adf0da5b1f994546",
+      "code_hash": "f0d335f44acd253f43a730305adcf7fa",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/html": "<marimo-ui-element object-id='CCce-0' random-id='a56134c5-cb45-91b9-b2d6-deaa3d0c38ba'><marimo-slider data-initial-value='5' data-label='null' data-start='1' data-stop='10' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element>"
+            "text/html": "<marimo-ui-element object-id='CCce-0' random-id='11ac644c-afb1-b5a6-2a29-2a2abdc78481'><marimo-slider data-initial-value='5' data-label='null' data-start='1' data-stop='10' data-steps='[]' data-debounce='false' data-disabled='false' data-orientation='&quot;horizontal&quot;' data-show-value='false' data-include-input='false' data-full-width='false'></marimo-slider></marimo-ui-element>"
           }
         }
       ],
@@ -38,12 +38,12 @@
     },
     {
       "id": "kzJI",
-      "code_hash": "0fe7df27f5334e532ced5fc9d5849ddd",
+      "code_hash": "9703299acacffc11da0cd8ffe4151496",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/html": "<marimo-ui-element object-id='kzJI-0' random-id='44f40422-239e-4a13-c627-73cec7b71fae'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;x&#92;&quot;:1,&#92;&quot;y&#92;&quot;:5},{&#92;&quot;x&#92;&quot;:2,&#92;&quot;y&#92;&quot;:10},{&#92;&quot;x&#92;&quot;:3,&#92;&quot;y&#92;&quot;:15},{&#92;&quot;x&#92;&quot;:4,&#92;&quot;y&#92;&quot;:20},{&#92;&quot;x&#92;&quot;:5,&#92;&quot;y&#92;&quot;:25},{&#92;&quot;x&#92;&quot;:6,&#92;&quot;y&#92;&quot;:30},{&#92;&quot;x&#92;&quot;:7,&#92;&quot;y&#92;&quot;:35},{&#92;&quot;x&#92;&quot;:8,&#92;&quot;y&#92;&quot;:40},{&#92;&quot;x&#92;&quot;:9,&#92;&quot;y&#92;&quot;:45},{&#92;&quot;x&#92;&quot;:10,&#92;&quot;y&#92;&quot;:50}]&quot;' data-total-rows='20' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;x&quot;,[&quot;integer&quot;,&quot;int64&quot;]],[&quot;y&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
+            "text/html": "<marimo-ui-element object-id='kzJI-0' random-id='be5359f2-80aa-bc8d-fa68-0d5452b511f8'><marimo-table data-initial-value='[]' data-label='null' data-data='&quot;[{&#92;&quot;x&#92;&quot;:1,&#92;&quot;y&#92;&quot;:5},{&#92;&quot;x&#92;&quot;:2,&#92;&quot;y&#92;&quot;:10},{&#92;&quot;x&#92;&quot;:3,&#92;&quot;y&#92;&quot;:15},{&#92;&quot;x&#92;&quot;:4,&#92;&quot;y&#92;&quot;:20},{&#92;&quot;x&#92;&quot;:5,&#92;&quot;y&#92;&quot;:25},{&#92;&quot;x&#92;&quot;:6,&#92;&quot;y&#92;&quot;:30},{&#92;&quot;x&#92;&quot;:7,&#92;&quot;y&#92;&quot;:35},{&#92;&quot;x&#92;&quot;:8,&#92;&quot;y&#92;&quot;:40},{&#92;&quot;x&#92;&quot;:9,&#92;&quot;y&#92;&quot;:45},{&#92;&quot;x&#92;&quot;:10,&#92;&quot;y&#92;&quot;:50}]&quot;' data-total-rows='20' data-total-columns='2' data-max-columns='50' data-banner-text='&quot;&quot;' data-pagination='true' data-page-size='10' data-field-types='[[&quot;x&quot;,[&quot;integer&quot;,&quot;int64&quot;]],[&quot;y&quot;,[&quot;integer&quot;,&quot;int64&quot;]]]' data-show-filters='true' data-show-download='true' data-show-column-summaries='true' data-show-data-types='true' data-show-page-size-selector='true' data-show-column-explorer='true' data-show-chart-builder='true' data-row-headers='[]' data-has-stable-row-id='false' data-lazy='false' data-preload='false'></marimo-table></marimo-ui-element>"
           }
         }
       ],
@@ -51,7 +51,7 @@
     },
     {
       "id": "iPdS",
-      "code_hash": "756fa444a8285a9692dfddc08e5fcf9f",
+      "code_hash": "025fb5bb4fa58509178c558b67e7eeda",
       "outputs": [
         {
           "type": "data",
@@ -64,7 +64,7 @@
     },
     {
       "id": "JdIN",
-      "code_hash": "7bcfeab3b710e9e0aeb04f67ebe605e0",
+      "code_hash": "61415454875ce2b500de8fa4cccc9fb3",
       "outputs": [
         {
           "type": "data",
@@ -84,12 +84,12 @@
     },
     {
       "id": "enUg",
-      "code_hash": "af2cfdc9d51249d7f7aca9819e1892a4",
+      "code_hash": "5a488ad6305398e13a5e40bdc7d94097",
       "outputs": [
         {
           "type": "data",
           "data": {
-            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\"><strong>Data Flow Documentation</strong></span>\n<span class=\"paragraph\">slider.value<br />\n\u2192 affects y values<br />\n\u2192 updates df<br />\n\u2192 updates markdown + plot</span></span>"
+            "text/markdown": "<span class=\"markdown prose dark:prose-invert contents\"><span class=\"paragraph\">Data flow documented with comments in each cell.</span></span>"
           }
         }
       ],
